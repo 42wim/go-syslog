@@ -7,7 +7,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/jeromer/syslogparser"
+	"github.com/42wim/syslogparser"
 	. "gopkg.in/check.v1"
 )
 
